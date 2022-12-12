@@ -1,2 +1,4 @@
 # CollegeERP
- college erp system
+
+College ERP System
+MCA final year project
